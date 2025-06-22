@@ -20,7 +20,6 @@ I have a strong passion for Artificial Intelligence and its applications in solv
 
 ###  Planning to Learn
 - Java  
-- MongoDB  
 - Advanced AI Concepts  
 - Machine Learning  
 - Deep Learning  
